@@ -10,8 +10,10 @@
 
 Currently sitting at 9.35% in profit, will be updating my % and accuracy as the model predicts more.
 
+If you would like to see a demo feel free to reach out and I can show you it working👍
+
 *Example of the model texting me on 2025-01-03 to buy Tesla stock!*
-![image](https://github.com/user-attachments/assets/e1927f51-ae75-4682-adbc-7dbf9374c7b9)
+![image](https://github.com/user-attachments/assets/8ae68028-db82-423c-aa48-2acc8fd3823a)
 <img width="444" alt="image" src="https://github.com/user-attachments/assets/763eee35-d545-4d0d-aac4-6313da7d35cb" />
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/d2abe0c7-4be3-4134-84d4-7492ab033ceb" />
 
