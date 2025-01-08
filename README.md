@@ -8,8 +8,7 @@
 
 **TSLA.AI** is a custom-built Large Language Model (LLM) designed to predict Tesla stock trends by analyzing Elon Musk's tweets and Tesla-related news articles. This project leverages a GPT model developed from scratch, fine-tuned for sentiment analysis, and automated to send daily investment predictions via SMS.
 
-Currently sitting at 9.35%
-I will be updating my profit % and accuracy as the model predicts more.
+Currently sitting at 9.35% in profit, will be updating my % and accuracy as the model predicts more.
 
 *Example of the model texting me on 2025-01-03 to buy Tesla stock!*
 ![image](https://github.com/user-attachments/assets/e1927f51-ae75-4682-adbc-7dbf9374c7b9)
